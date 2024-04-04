@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Marck+Script&family=Pacifico&family=Rubik+Moonrocks&display=swap');
+
+body {
+    background-color: lightcoral;
+}
+
+p {
+    font-size: 1cm;
+}
+
+.p1 {
+    background-color: crimson;
+    color: indigo;
+    text-align: center;
+}
+
+.ex1 {
+    font-family: sans-serif;
+    color: darkmagenta;
+    font-weight: 800;
+    text-decoration: overline;
+    text-decoration-style: double;
+    text-decoration-color: rgb(190, 47, 161);
+}
+
+.ex2 {
+    font-family: "Lucida Console", Courier, monospace;
+    font-style: oblique;
+}
+
+.ex3 {
+    font-family: "Rubik Moonrocks", sans-serif;
+    color: indigo;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-underline-position: under;
+    text-decoration-color: brown;
+}
+
+.ex4 {
+    font-family: "Marck Script", cursive;
+    text-shadow: 6px 5px 2px firebrick, 0px -3px 6px indigo;
+}
+
+.ex5 {
+    font-family: "Amatic SC", sans-serif;
+    color: firebrick;
+    font-size: 50px;
+    text-decoration-line: underline overline;
+    text-decoration-skip-ink: none;
+    text-decoration-color: rgb(132, 17, 55);
+}
+
+.ex6 {
+    font-family: "Pacifico", cursive;
+    text-shadow: 0 0 13px maroon;
+    text-emphasis: 'x';
+    text-emphasis-color: indigo;
+}
+
+.ex7 {
+    text-transform: uppercase;
+    font-style: oblique 50deg;
+    font-weight: 500;
+    color: purple;
+}
+
+.ex8 {
+    font-family: "Cormorant Infant";
+    font-family: system-ui;
+    color: mediumvioletred;
+}
+
+.ex9 {
+    font-family: "Press Start 2P", italic;
+    text-shadow: -6px -7px firebrick, 5px 3px indigo;
+}
+
+.ex10 {
+    font-family: "Rubik Doodle Shadow", monospace;
+    color: darkred;
+}
+
+.decor {
+    color: #191970;
+    font-size: 0.8em;
+    font-weight: 600;
+    font-style: italic;
+    text-shadow: 0 0 13px #663399;
+    text-decoration: mediumorchid wavy underline;
+    text-underline-position: under;
+    text-emphasis-style: "*";
+    text-emphasis-color: #b22222;
+}
